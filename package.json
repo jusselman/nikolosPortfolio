@@ -1,0 +1,14 @@
+{
+  "name": "portfoliotemplate",
+  "version": "1.0.0",
+  "description": "Template for Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "author": "Joshua Usselman",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
